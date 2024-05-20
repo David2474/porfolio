@@ -14,7 +14,7 @@ export default function Redes() {
         {
             id: 2,
             image: "/redes/linkedin.png",
-            url: "https://www.linkedin.com/in/dev-david-gutierrez/"
+            url: "https://www.linkedin.com/in/dev-david-gutierrez"
         },
     ]
 

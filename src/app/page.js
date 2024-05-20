@@ -43,7 +43,7 @@ export default function Home() {
 
         <section className="w-11/12 flex flex-col  sm:flex-row justify-center sm:justify-around items-center">
           <div className="flex flex-col justify-center  items-center sm:w-2/4 w-12/12">
-            <p className="text-xl font-semibold sm:text-4xl my-2">Contactame</p>
+            <p className="text-2xl font-semibold sm:text-4xl my-2">Contactame</p>
             <p className="w-11/12 text-gray-300">
             Contáctame para hablar sobre tus proyectos y crear software innovador juntos
             </p>
