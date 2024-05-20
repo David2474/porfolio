@@ -10,7 +10,7 @@ import ContactForm from "./components/contact/ContactForm";
 
 export default function Home() {
   return (
-    <main className="flex min-h-screen border text-white bg-zinc-900 flex-col items-center ">
+    <main className="flex min-h-screen text-white bg-zinc-900 flex-col items-center ">
       {/* SECTION OF NAVBAR */}
       <section className="flex flex-col w-11/12 items-center justify-center">
         <section className="flex flex-col justify-center items-center">
