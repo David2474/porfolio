@@ -44,6 +44,26 @@ export default function CardProyect() {
           },
           github: "https://github.com/David2474/resultsComponent"
         },
+        {
+          id: 5,
+          url: "/proyects/apiPeli.png",
+          name: "proyect name",
+          tecnologies: {
+            1: "React",
+            2: "Tailwind",
+          },
+          github: "https://github.com/David2474/resultsComponent"
+        },
+        {
+          id: 6,
+          url: "/proyects/sumaryResult.png",
+          name: "proyect name",
+          tecnologies: {
+            1: "React",
+            2: "Tailwind",
+          },
+          github: "https://github.com/David2474/resultsComponent"
+        },
       ]
 
   return (
