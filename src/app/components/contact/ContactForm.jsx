@@ -7,12 +7,11 @@ function ContactForm() {
   const [state, handleSubmit] = useForm("xleqvkvk");
 
   if (state.succeeded) {
-    return <p className="text-green-500">Gracias por contactarte!</p>;
+    return <p className="text-green-500 text-2xl">Gracias por contactarte!</p>;
   }
 
   return (
-    <form onSubmit={handleSubmit} className='flex mt-4 flex-col self-center sm:w-2/4 w-full justify-center items-center'>
-      
+    <form onSubmit={handleSubmit} className='flex border w-10/12 mt-4 flex-col self-center justify-center items-center'>
       <label htmlFor="email" className="mt-6 items-center w-9/12 uppercase font-medium text-neutral-200">
         Nombre
       </label>
