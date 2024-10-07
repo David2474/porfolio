@@ -19,7 +19,6 @@ function ContactForm() {
           id="name"
           type="text" 
           name="name"
-          required
         />
         <ValidationError 
           prefix="Name" 
